@@ -1,0 +1,15 @@
+c:\temp\lab03\bin\Debug\net10.0\MyApp.exe
+c:\temp\lab03\bin\Debug\net10.0\MyApp.deps.json
+c:\temp\lab03\bin\Debug\net10.0\MyApp.runtimeconfig.json
+c:\temp\lab03\bin\Debug\net10.0\MyApp.dll
+c:\temp\lab03\bin\Debug\net10.0\MyApp.pdb
+c:\temp\lab03\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\temp\lab03\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+c:\temp\lab03\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+c:\temp\lab03\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+c:\temp\lab03\obj\Debug\net10.0\MyApp.sourcelink.json
+c:\temp\lab03\obj\Debug\net10.0\MyApp.dll
+c:\temp\lab03\obj\Debug\net10.0\refint\MyApp.dll
+c:\temp\lab03\obj\Debug\net10.0\MyApp.pdb
+c:\temp\lab03\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+c:\temp\lab03\obj\Debug\net10.0\ref\MyApp.dll

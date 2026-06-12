@@ -1,0 +1,60 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "關於 Google" [ref=e4] [cursor=pointer]:
+      - /url: https://about.google/?fg=1&utm_source=google-&utm_medium=referral&utm_campaign=hp-header
+    - link "Google 商店" [ref=e5] [cursor=pointer]:
+      - /url: https://store.google.com/?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=zh-TW-
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link "Gmail" [ref=e10] [cursor=pointer]:
+          - /url: https://mail.google.com/mail/&ogbl
+        - link "搜尋圖片" [ref=e12] [cursor=pointer]:
+          - /url: https://www.google.com/imghp?hl=zh-TW&ogbl
+          - text: 圖片
+      - button "Google 應用程式" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - link "登入" [ref=e20] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=zh-TW&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e
+  - generic [ref=e22]:
+    - link "2026 世界盃開賽！" [ref=e24] [cursor=pointer]:
+      - /url: /search?sca_esv=a2c167858aedc03d&q=2026+%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%B8%BD%E4%B8%96%E7%95%8C%E7%9B%83&oi=ddle&noiga=1&ct=460194440&hl=zh-TW&stick=H4sIAAAAAAAC_wEsANP_CAMiCC9tLzAzMHE3kAQBogUaMjAyNiDlnIvpmpvotrPnuL3kuJbnlYznm4MsvXGELAAAAA&sa=X&ved=0ahUKEwivrdiGlYGVAxUPdPUHHZUSA1EQPQgG
+      - img "2026 世界盃開賽！" [ref=e26]
+    - button "分享" [ref=e28]:
+      - generic "分享" [ref=e29] [cursor=pointer]:
+        - img [ref=e33]
+  - search [ref=e36]:
+    - generic [ref=e38]:
+      - generic [ref=e40]:
+        - button "新增檔案和工具" [ref=e43] [cursor=pointer]:
+          - img [ref=e45]
+        - combobox "搜尋" [active] [ref=e48]
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - button "語音搜尋" [ref=e51] [cursor=pointer]:
+              - img [ref=e52]
+            - button "以圖搜尋" [ref=e54] [cursor=pointer]:
+              - img [ref=e55]
+          - link "AI 模式" [ref=e57] [cursor=pointer]:
+            - generic [ref=e59]:
+              - img [ref=e61]
+              - generic [ref=e68]: AI 模式
+      - generic [ref=e70]:
+        - button "Google 搜尋" [ref=e71] [cursor=pointer]
+        - button "好手氣" [ref=e72] [cursor=pointer]
+  - contentinfo [ref=e75]:
+    - generic [ref=e76]: 台灣
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - link "廣告" [ref=e79] [cursor=pointer]:
+          - /url: https://www.google.com/intl/zh-TW_tw/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+        - link "商業" [ref=e80] [cursor=pointer]:
+          - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+        - link "搜尋服務的運作方式" [ref=e81] [cursor=pointer]:
+          - /url: https://google.com/search/howsearchworks/?fg=1
+      - generic [ref=e82]:
+        - link "隱私權" [ref=e83] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy?hl=zh-TW&fg=1
+        - link "服務條款" [ref=e84] [cursor=pointer]:
+          - /url: https://policies.google.com/terms?hl=zh-TW&fg=1
+        - button "設定" [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 設定

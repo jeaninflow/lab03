@@ -1,0 +1,1 @@
+#file:school.csv 檔案第一個資料橫列是欄位標題，資料從第二列開始 在#file:FileReader.cs 類別加入一個方法，讀出#file:school.csv 檔案每一橫列的資料，按","切割，讀取第二個欄位，第六個欄位與第七個欄位的值，組成一個Tuple，放到coord屬性 在Program 類別Main方法呼叫這個方法，印出所有檔案的資料
